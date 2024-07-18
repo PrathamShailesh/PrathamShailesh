@@ -20,6 +20,11 @@
 
 💬 Fluent in code and sarcasm 🗣️💻
 
+🍕 Fuelled by pizza and the occasional energy drink 🍕
+
+⚡ Let's connect and build something awesome together! 🚀
+
+
 ## Skills
 
 ```markdown
@@ -36,11 +41,6 @@
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![70%](https://progress-bar.dev/70/) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![60%](https://progress-bar.dev/60/) |
 | ![DSA](https://img.shields.io/badge/DSA-0A192F?style=for-the-badge&logo=data&logoColor=white) | ![75%](https://progress-bar.dev/75/) |
-
-🍕 Fuelled by pizza and the occasional energy drink 🍕
-
-⚡ Let's connect and build something awesome together! 🚀
-
 
 <!---
 PrathamShailesh/PrathamShailesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
